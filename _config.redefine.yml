@@ -14,7 +14,7 @@ info:
   # Author name
   author: 小博美
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://blog.whitezenblog.top
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -145,7 +145,7 @@ home_banner:
     # Social links
     links:
       weibo: https://weibo.com/u/1117433311
-      qq: https://qm.qq.com/cgi-bin/qm/qr?k=wzMos8v5qJ3SR8hQm0wN9k284GtbY7sD&noverify=0&personal_qrcode_source=4
+      qq: https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d1173902849
       # instagram: # your Instagram URL
       # zhihu:  # your ZhiHu URL
       # twitter:  # your twitter URL
@@ -194,7 +194,7 @@ navbar:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: true
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -207,7 +207,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: # Announcement text
+    announcement: 小博美之家
     links:
       Archives: 
         path: /archives 
@@ -246,10 +246,10 @@ articles:
   word_count:
     enable: true # Whether to enable
     count: true # Whether to display word count
-    min2read: true # Whether to display reading time
+    min2read: false # Whether to display reading time
   # Author label
   author_label: 
-    enable: true # Whether to enable
+    enable: false # Whether to enable
     auto: false # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
     list: []
   # Code block settings
@@ -268,7 +268,7 @@ articles:
     expand: true # Whether to expand TOC
     init_open: true # Open toc by default
   # Whether to enable copyright notice
-  copyright: true
+  copyright: false
   # Whether to enable lazyload for images
   lazyload: true
   # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
@@ -319,9 +319,9 @@ footer:
   # Icon in footer, write fontawesome icon code here
   icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
-  start: 2022/8/17 11:45:14
+  start: 2023/5/15 11:45:14
   # Footer message
-  customize:
+  customize: 
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: false # Whether to enable
