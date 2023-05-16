@@ -10,7 +10,7 @@
 # BASIC INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 info:
   # Site title
-  title: WHITEZEN Blog
+  title: WHITEZEN's Blog
   # Author name
   author: 小博美
   # Site URL
@@ -105,7 +105,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title:  Welcome to WHITEZEN blog
+  title:  Welcome to WHITEZEN's blog
   # Home banner subtitle
   subtitle:
     text: [欢迎来到小博美之家] # subtitle text, array
