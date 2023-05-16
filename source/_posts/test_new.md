@@ -11,5 +11,6 @@ tags:
   - 测试标签1
   - 测试标签2
   - 测试标签3
+permalink: testlink
 comments: true
 ---
