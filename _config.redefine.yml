@@ -174,6 +174,9 @@ navbar:
     Tags: 
       path: /tags 
       icon: fa-regular fa-tag # can be empty
+    Categories: #取名随意
+        icon: fa-regular fa-folder #图标
+        path: /categories/ #链接
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
@@ -215,12 +218,12 @@ home:
       Tags: 
         path: /tags 
         icon: fa-regular fa-tags # can be empty
-      # Categories: 
-      #   path: /categories 
-      #   icon: fa-regular fa-folder # can be empty
+      Categories: 
+        path: /categories 
+        icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
-  article_date_format: YYYY-MM-DD HH:mm # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
+  article_date_format: YYYY-MM-DD HH:mm:ss # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
   # Article categories visibility
   categories:
     enable: true  # Whether to enable
