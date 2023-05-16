@@ -163,6 +163,7 @@ navbar:
     left: "#f78736" #left side 
     right: "#367df7"  #right side
     transparency: 35 #percent (10-99)
+
   # Navbar links
   links:
     Home: 
@@ -174,9 +175,9 @@ navbar:
     Tags: 
       path: /tags 
       icon: fa-regular fa-tag # can be empty
-    Categories: #取名随意
-        icon: fa-regular fa-folder #图标
-        path: /categories/ #链接
+    Categories: 
+        path: /categories
+        icon: fa-regular fa-folder
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
