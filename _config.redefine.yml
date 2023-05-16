@@ -146,10 +146,10 @@ home_banner:
     links:
       weibo: https://weibo.com/u/1117433311
       qq: https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d1173902849
+      email: 1173902849@qq.com
       # instagram: # your Instagram URL
       # zhihu:  # your ZhiHu URL
       # twitter:  # your twitter URL
-      email: whitezenblog@gmail.com
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
@@ -224,7 +224,7 @@ home:
         icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
-  article_date_format: YYYY-MM-DD HH:mm:ss # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
+  article_date_format: YYYY-MM-DD HH:mm # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
   # Article categories visibility
   categories:
     enable: true  # Whether to enable
@@ -278,7 +278,7 @@ articles:
   # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
   recommendation:
     # Whether to enable article recommendation
-    enable: false
+    enable: true
     # Article recommendation title
     title: 推荐阅读
     # Max number of articles to display
