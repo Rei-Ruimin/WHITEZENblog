@@ -8,14 +8,9 @@ categories:
   - 狩魔龙一
 comments: true
 ---
-{% note warning  %}
-
-
-*ABO所长×局长*
+{% note warning  %}*ABO所长×局长*
 假结婚阴差阳错
-*新婚夫妇的成年人纯爱车车
-
-{% endnote %}
+*新婚夫妇的成年人纯爱车车{% endnote %}
 
 *
 
