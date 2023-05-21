@@ -9,9 +9,7 @@ tags:
   - 所局
   - 有h内容
 categories:
-  - 成御
-  - 狩魔龙一
-  - White Gloves
+  - 连载
 comments: true
 ---
 {% note primary  %}
