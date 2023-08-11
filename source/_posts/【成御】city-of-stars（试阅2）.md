@@ -14,7 +14,7 @@ comments: true
 ---
 <!--StartFragment-->
 
-{% note primary %}     本文段为成御文本City of Stars的试阅部分，选自Shadow of Dream如果您感兴趣，欢迎于cpgz05现场或之后的通贩之中支持购买{% endnote %}
+{% note primary %}     本文段为成御文本City of Stars的试阅部分2，选自Shadow of Dream如果您感兴趣，欢迎于cpgz05现场或之后的通贩之中支持购买{% endnote %}
 
 <!--EndFragment-->
 
