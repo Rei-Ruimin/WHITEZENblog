@@ -14,19 +14,17 @@ comments: true
 ---
 <!--StartFragment-->
 
-{% note primary %}primary     本文段为成御文本City of stars的试阅部分，选自Shadow of Dream如果您感兴趣，欢迎与cpgz05现场或之后的通贩之中支持购买{% endnote %}
+{% note primary %}     本文段为成御文本City of stars的试阅部分，选自Shadow of Dream如果您感兴趣，欢迎与cpgz05现场或之后的通贩之中支持购买{% endnote %}
 
 <!--EndFragment-->
 
+<!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
 
+<!--\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\[endif]-->
-
-<!--\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\[endif]-->
-
-<!--\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<!--\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" ></w:LsdException>
@@ -284,11 +282,9 @@ comments: true
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><!\[endif]-->
+</w:LatentStyles></xml><!\\[endif]-->
 
 <!--StartFragment-->
-
-　　 
 
 　　梦境，是这个世界上最捉摸不透的事物，它来源于现实，将一切或是明朗或是晦暗的元素，在同一个盘子中晕染开，时而如同雨珠滴上新嫩的花蕊，时而又像月光下的雾霭云烟，瞬息之间光影交错，汇聚成一个装满未知的泡影，在阳光照射下来之前，梦就是一个完整的世界。
 
@@ -325,8 +321,6 @@ comments: true
 　　就像现在。
 
 　　御剑怜侍已经走到了他们时常会碰面的那一条满是面包店与咖啡厅的街道。面包店往往已经打烊，咖啡厅却在夜晚承担起酒吧的职能，隐隐有嘈杂声自一个个小小的店面中传出，不知何处传来吉他的声音，弹着一个带有特殊古典韵味的曲调，唱歌的人亦不知身在何处，他口中的歌词不知是哪一种语言，热烈的情绪却传递给每一个听到这歌声的人。
-
-　　 
 
 　　变幻的灯影自玻璃橱窗之中透出，照亮了御剑怜侍半张轮廓深邃的面孔，使他眉间的皱痕显得更加深刻，御剑怜侍此刻的心中满是无可奈何，他想要露出一抹苦笑，嘴角动了动，却因为面部肌肉轻微的僵硬而失败了。他想，自己好像又在做梦了。
 
