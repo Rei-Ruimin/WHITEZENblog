@@ -1,10 +1,11 @@
 ---
-title: 【成御】City os stars（试阅）
+title: 【成御】City of stars（试阅1）
 date: 2023-08-11 10:00:36
 tags:
   - 成御
   - 纯爱
   - 所局
+  - 戏剧pa
   - 其他if
   - 无h内容
   - 试阅
@@ -16,19 +17,17 @@ comments: true
 ---
 <!--StartFragment-->
 
-{% note primary %}primary     本文段为成御文本City of stars的试阅部分，如果您感兴趣，欢迎与cpgz05现场或之后的通贩之中支持购买{% endnote %}
+{% note primary %}primary     本文段为成御文本City of stars的试阅部分1，节选自同名文章City of stars，如果您感兴趣，欢迎与cpgz05现场或之后的通贩之中支持购买{% endnote %}
 
 <!--EndFragment-->
 
+<!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
 
+<!--\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\[endif]-->
-
-<!--\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\[endif]-->
-
-<!--\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<!--\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" ></w:LsdException>
@@ -286,11 +285,9 @@ comments: true
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><!\[endif]-->
+</w:LatentStyles></xml><!\\[endif]-->
 
 <!--StartFragment-->
-
-　
 
 　　12月29日，这一天是在御剑怜侍十几年的工作生涯中，平凡得不能再平凡的一天。
 
@@ -352,8 +349,6 @@ comments: true
 
 　　心有所感之间，御剑怜侍拆开了铁盒之中的第一封信，泛黄但仍旧保存完好的信纸上，稀疏地排列着与照片角落相同的稚拙字迹，看上去，写信的人还不能熟练地使用信纸，其上的字疏密不均，时大时小，笨拙得可爱。这封最为久远的信，也是御剑怜侍读过最多次的一封信。微垂眼帘，他让这封信的内容再次映入他的眼底。
 
-　　
-
 　　亲爱的御剑：
 
 　　你好吗？祝愿你展开这封信的时候心情正好。
@@ -386,13 +381,9 @@ comments: true
 
 　　御剑，不要害怕，如果有一天你不得不成为一个坚强的男子汉，不要害怕，那证明御剑确实很强大，很坚强，很厉害，比我以前见过的所有人厉害。但是如果有一天你不想做男子汉了，你想要偷偷地哭泣一场，请记得，我永远在你的身边。
 
-　　
-
 　　你永远的好朋友
 
 　　爱你的 成步堂龙一
-
-　　
 
 　　读到这里，御剑怜侍已经干涸许久的心底，无声地湿润了。好像有什么陌生的事物，将要从他的心里、从他的眼中涌出来。
 
