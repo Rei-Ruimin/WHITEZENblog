@@ -8,8 +8,7 @@ WHITEZENblog is a static blog created for my friend, WHITEZEN, to post her fanfi
 ## Tutorial
 ### Setting Up Hexo, GitHub, Netlify, and Cloudflare
 
-I followed [this guide](https://blog.cuijiacai.com/blog-building/) to get started. Essentially, I used Hexo to create the blog code and stored it on GitHub. Then, I used Netlify to deploy the blog online. To ensure the blog loads quickly in China, I utilized Cloudflare. The only modification I made to the guide was purchasing my domain name from NameSilo instead of the recommended provider, as it was more economical. NameSilo provides buttons that assist in setting up DNS and changing the nameserver, as illustrated below.
-
+I followed [this guide](https://blog.cuijiacai.com/blog-building/) to get started. Essentially, I used Hexo to create the blog code and stored it on GitHub. Then, I used Netlify to deploy the blog online. To ensure the blog loads quickly in China, I utilized Cloudflare. The only modification I made to the guide was purchasing my domain name from NameSilo instead of the recommended provider, as it was cheaper.
 ### Adding a CMS with hexo-netlify-cms
 
 To incorporate a Content Management System (CMS) into the blog, I utilized the [hexo-netlify-cms package](https://www.npmjs.com/package/hexo-netlify-cms). If you follow the official guide, be aware that it defaults to using the 'master' branch instead of 'main' in your Git repository. To address this, I created a new 'master' branch for production, as suggested in [this discussion](https://answers.netlify.com/t/git-gateway-error/12220/19).
