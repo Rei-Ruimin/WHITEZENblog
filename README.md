@@ -1,7 +1,7 @@
 # WHITEZENblog
 A Static Blog for WHITEZEN
 
-WHITEZENblog is a static blog created for my friend, WHITEZEN, to post her fanfiction. Please be advised that the content is NSFW (Not Safe for Work) and is in Chinese.
+WHITEZENblog is a static blog created for my friend, WHITEZEN, to post her fanfiction. Please be advised that the content is NSFW and is in Chinese.
 
 [Visit the blog](https://blog.whitezenblog.top/)
 
