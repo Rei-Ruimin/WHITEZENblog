@@ -11,13 +11,13 @@ categories:
   - Vanity
 comments: true
 ---
-<!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
+<!--\\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\[endif]-->
+<!--\\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\[endif]-->
+<!--\\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<!--\\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" ></w:LsdException>
@@ -275,17 +275,15 @@ comments: true
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><!\\[endif]-->
+</w:LatentStyles></xml><!\\\[endif]-->
 
 <!--StartFragment-->
 
-
+<!--StartFragment-->
 
 <!--StartFragment-->
 
-
-
-　　
+{% notel default fa-info  %}
 
 　　来自英国、有着悠久历史和高贵地位的卡尔玛家族，历代传承着一个货真价实的伯爵爵位，同时，也有着一个非常受到重视的传统，那就是：每代伯爵在他的授爵仪式上，都必须佩戴一件足以匹配地位的定制珠宝。\
 　　原本在位的老伯爵因故入狱，而按照继承法，这顶象征着崇高地位的伯爵冠冕，应当落到老伯爵的养子——迈尔斯·埃奇沃思头上。然而，埃奇沃思先生本人似乎对家族传统缺乏重视，为了维护卡尔玛家族历代保有的体面，老伯爵唯一的亲生女儿、埃奇沃思先生的义妹——弗朗西斯卡·冯·卡尔玛女士，不得不代替兄长寻找有合适价值的宝石，以此来定制授爵仪式上佩戴的饰品。\
@@ -296,9 +294,13 @@ comments: true
 　　就是在这样的背景下，准伯爵埃奇沃思先生，竟在一次次的宴会和社交聚会中，逐渐爱上了那位远道而来的美国珠宝商。与莱特怀揣的偏见截然不同的是，他实际上并不傲慢，只是有些严肃，或者说有些不近人情，他开始努力用生硬的方式接近莱特，并尝试着散发他的善意，而莱特对贵族的偏见却使他们之间的误会伴随着埃奇沃思的努力变得越来越深，成就了一段诙谐而富有戏剧性的爱情喜剧。\
 　　富有的、纸醉金迷的背景布上，两位对恋爱一无所知的男主角，将会如何在重重误会中摸索着前进，打破误解与偏见，最终携手摘下幸福的果实呢？敬请期待！
 
+{% endnotel %}
+
 <!--EndFragment-->
 
 
+
+<!--EndFragment-->
 
 　　珠宝本无言，知音解其语。
 
