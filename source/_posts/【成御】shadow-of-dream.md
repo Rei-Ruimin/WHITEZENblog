@@ -10,13 +10,13 @@ categories:
   - 非连载
 comments: true
 ---
-<!--\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<!--\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" ></w:LsdException>
@@ -274,35 +274,17 @@ comments: true
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><!\[endif]-->
+</w:LatentStyles></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
-　　 
-
-　　
-
-　　
-
 　　Summary：
-
-　　 
 
 　　他是织梦人，他是梦之影，他是梦本身。
 
-　　 
-
- 
-
-————————————————————
-
- 
-
- 
+——————————————————
 
 　　01
-
- 
 
 　　在这个世界上存在一种人，他们的使命，是为人类编织梦。
 
@@ -340,11 +322,7 @@ comments: true
 
 　　御剑怜侍既慌乱又不安，他无论如何也不能相信，那颗天边的星星竟然真的撞进他怀里！
 
-　　 
-
 　　02
-
-　　 
 
 　　一位伟大的历史上统帅，倾其一生，或许可以影响一两个民族的命运，而一位伟大的艺术家，却能让全世界所有民族感恩他的名字，哪怕是五百年后。
 
@@ -472,11 +450,7 @@ comments: true
 
 　　那颗金色的纽扣陡然在他手中变得滚烫。
 
-　　 
-
 　　03
-
-　　 
 
 　　那一枚来自成步堂龙一胸口的纽扣，在御剑怜侍的手中忽然炸成了一团瑰丽的梦境，在梦境之中，仿佛有一位有着明亮眼眸的青年，与他在气氛热烈的舞会中相遇，隔着形形色色的客人，互望一眼，只在一瞬，便将彼此饱含了星光雨露的眼眸刻印在心中。他追随着那双明亮的眼睛，穿过开满玫瑰的花园，越过盛满月色的湖泊，路过一排排镶满宝石与琉璃的花窗，他们都默契地不发出声响，像是在保守着一个浪漫的秘密，一旦有话语出口便将曾梦一般的秘密说破。
 
@@ -508,11 +482,7 @@ comments: true
 
 　　但有一点是无比确定的——御剑怜侍坚决不想和那些他假想中的受害者们一样，被他引诱，成为他的一夜情人。他不想让那个轻浮的混蛋就这样得逞，不用猜也知道，那个滥情的家伙绝不会珍惜一个在异国他乡有过露水情缘的对象，只会将他的感情当作玩物。最重要的是，他绝对不想被那个家伙当成同样轻浮低廉、容易得手的人！
 
-　　 
-
 　　04
-
-　　 
 
 　　成步堂龙一正在透过车窗的玻璃，看着夜色中停车场的景象，四周有几盏射灯发出昏黄色的光，并不算远的照射范围将停车场衬托得愈发空旷漆黑。几位穿着制服的工作人员正在指挥交通，他乘坐的这辆转车，还需要经过几层保护和疏通才能从这里顺利地驶出去。
 
@@ -622,11 +592,7 @@ comments: true
 
 　　然而此时此刻，正在疾步走出停车场的御剑怜侍并不知道这些，他一边不由自主地深呼吸，一边反复在心中想，很好，御剑怜侍，就这样，将那扣子还给他，将那个轻浮的浪荡子给你的虚情假意都还给他，回去睡个好觉，最好永远永远别再想起这件事，就当是做了一次荒诞的美梦，让今晚发生的一切就结束在今晚吧。
 
-　　 
-
 　　05
-
-　　 
 
 　　这场以戏剧为主题的狂欢还在继续着，在昨天的激情被点燃之后，这座城市之中熊熊燃烧的浪漫的火焰不会那样快熄灭，今晚的演出依旧万众瞩目。将要与观众见面的，是那位伟大剧作家另一代表作，一出怪诞的喜剧，一场货真价实的幻梦。尽管它以爱情为主题，却没有真正的男女主角，反而有几对身份各不相同的恋人，成步堂龙一扮演的正是这些陷入爱河的男女中的一个。
 
@@ -750,11 +716,7 @@ comments: true
 
 　　然而，他嘴角上带着的笑容却并不是苦笑，而是实实在在地感到甜蜜的动情的笑容。
 
-　　 
-
 　　06
-
-　　 
 
 　　当御剑怜侍在餐厅中今日第三次地“偶遇”那个名为成步堂龙一的青年演员时，他终于确信了心中令人烦躁的猜测。
 
@@ -876,11 +838,7 @@ comments: true
 
 　　“但是，请允许我向您表达真挚的感谢，为了您刚才令人高兴的提议。”
 
-　　 
-
 　　07
-
-　　 
 
 　　冬日午后难得的暖阳，洒在市政广场整齐绵延的青黑色石板上，带走二百年的时光，让古老焕发新的光彩。这些石板自市政厅建成之时便在这里，沉默地组成了几代人对这座城市最核心的印象，尽管在市政广场之外，无数外表极富科技感的摩天大楼拔地而起，这里仍旧如二百年前一样，沉静、肃穆、严谨，象征着这片土地上生活的居民世世代代秉持的某种精神。
 
@@ -1004,8 +962,6 @@ comments: true
 
 　　莫名地，御剑怜侍的局促缓解了一些，可是似乎又生出一种新的不安来，热气很快顺着那纸杯，爬上了他的双颊与耳尖。
 
-　　 
-
 　　“事已至此，”身旁那裹着有些臃肿的红色围巾的青年仍旧无害地微笑着，那笑容看起来竟颇有些羞涩的意味，就仿佛他是第一次鼓起勇气与喜欢的人搭话一般：“可以和你正式认识一下吗？我是成步堂龙一，一名演员。如果你不介意的话，叫我成步堂就好。”
 
 　　御剑怜侍沉默了几秒，就如同他没有拒绝或者接受一杯咖啡的好意的经验一般，他也未曾想过如果成步堂龙一用这种柔和到让他没脾气的方式求情与他建立联系时他该怎么做。最令他难堪的是，他的手中此刻还拿着一杯对方赠予他的咖啡。当他后知后觉地意识到，自己手中这杯温热的饮料可能是一种“阳谋”时，他连拒绝都来不及了。
@@ -1112,11 +1068,7 @@ comments: true
 
 　　直到摔上自己那颜色艳丽的跑车的车门，御剑怜侍才逐渐冷静下来，他回忆起自己刚才的话，后知后觉地更加羞耻了。他懊悔地想，自己当时不应该说“没有时间”，而应该说“没门”。
 
-　　 
-
 　　08
-
-　　 
 
 　　弥漫着咖啡与烘焙红茶香气的小餐厅内十分安静，只偶尔传来几声愉悦的窃窃私语，与刀叉轻碰餐盘的声音。现在是午休期间，这里的客人相较于平时已算不少，却仍旧没有改变它安静的特质。仅有的一些声息也被流水一般悠扬的乐曲带走，只为这里的客人留下优雅宜人的气氛。
 
@@ -1159,8 +1111,6 @@ comments: true
 　　像是受到了某种鼓励，他开始更加兴致勃勃地与这个不会回话的约会对象聊天。接下来的三十分钟，他像是个分享开心事的朋友一般，向御剑怜侍讲了很多他在巡演期间亲身经历的趣闻，还有些各个国家有趣的风土人情。起初御剑怜侍仍旧一言不发，不过成步堂龙一能够感受到，御剑怜侍的注意力开始逐渐向他集中，如果检察官先生有一双柔软的猫耳朵，恐怕会在成步堂龙一每次开口时灵动地竖立起来。
 
 　　成步堂龙一是个极其有人际交往天赋的人，总是能将话题引向御剑怜侍喜欢发出评论的方向，几次之后，御剑怜侍还是坚持不住，接下了成步堂龙一的话题，尽管只是最简单的回复，也无疑助长了成步堂龙一的“气焰”。
-
-　　 
 
 　　当成步堂龙一说到，曾有一个舞台剧导演邀请他出演一个那个国家很有名的特摄片的男主角时，他听到本次用餐其间最响亮的一次刀叉碰撞盘子的声音，随即御剑怜侍今天第一次抬起头，紧盯着成步堂龙一。不知是否是错觉，成步堂龙一竟从那张僵硬的脸上看出了一种孩子气的期待，深灰色的双眼前所未有地明亮。成步堂龙一因为这从未见过的表情的出现而微微愣住了，仅仅愣了一秒的功夫，御剑怜侍便主动出言催促：
 
@@ -1232,11 +1182,7 @@ comments: true
 
 　　难以名状的委屈后知后觉地袭来，御剑怜侍懊悔地想，自己当时不应该说“随你”，而应该说“管好你自己”。
 
-　　 
-
 　　09
-
-　　 
 
 　　梦境，是这个世界上最捉摸不透的事物，它来源于现实，将一切或是明朗或是晦暗的元素，在同一个盘子中晕染开，时而如同雨珠滴上新嫩的花蕊，时而又像月光下的雾霭云烟，瞬息之间光影交错，汇聚成一个装满未知的泡影，在阳光照射下来之前，梦就是一个完整的世界。
 
@@ -1273,8 +1219,6 @@ comments: true
 　　就像现在。
 
 　　御剑怜侍已经走到了他们时常会碰面的那一条满是面包店与咖啡厅的街道。面包店往往已经打烊，咖啡厅却在夜晚承担起酒吧的职能，隐隐有嘈杂声自一个个小小的店面中传出，不知何处传来吉他的声音，弹着一个带有特殊古典韵味的曲调，唱歌的人亦不知身在何处，他口中的歌词不知是哪一种语言，热烈的情绪却传递给每一个听到这歌声的人。
-
-　　 
 
 　　变幻的灯影自玻璃橱窗之中透出，照亮了御剑怜侍半张轮廓深邃的面孔，使他眉间的皱痕显得更加深刻，御剑怜侍此刻的心中满是无可奈何，他想要露出一抹苦笑，嘴角动了动，却因为面部肌肉轻微的僵硬而失败了。他想，自己好像又在做梦了。
 
@@ -1434,11 +1378,7 @@ comments: true
 
 　　他望着他，他也望着他，目光交汇的第二秒，御剑怜侍的脊背碰上了冰冷的墙面，成步堂龙一突然向前欺身，将御剑怜侍抵在墙上，用力地亲吻了他的嘴唇。
 
-　　 
-
 　　10
-
-　　 
 
 　　“人的一生会做很多梦。”
 
@@ -1466,7 +1406,7 @@ comments: true
 
 　　说着这句话时，他已经不是那个梦外的人。
 
-　**　他是织梦人，他是梦之影，他是梦本身。**
+　　**他是织梦人，他是梦之影，他是梦本身。**
 
 　　“三十个夜晚，三十场梦境，我们一起从摇曳在宫廷舞池中的身份高贵的青年男女，到仲夏夜林中飞舞的精灵。在这里，情感被放大，浪漫被吹捧，浮夸被宽恕，每一朵红玫瑰都绽放出爱情的色彩，每一位年轻人都有机会将生命献给爱情，那些人们渴望的、珍惜的、却罕见于现实的品质，都被淋漓尽致地展现，无论结局是悲是喜，都会给予善恶美丑最公正的评判。”
 
@@ -1536,11 +1476,7 @@ comments: true
 
 　　“让我们到下一个梦中再相聚。”
 
-　　 
-
 　　11
-
-　　 
 
 　　墙壁上，一盏昏黄的壁灯亮着，虽不是烛火，却给人一种苟延残喘的摇曳之感，在金属发黄的墙面上分割出一个明暗的交界。
 
@@ -1630,11 +1566,7 @@ comments: true
 
 　　“晚安。”
 
-　　 
-
 　　12
-
-　　 
 
 　　天已经亮了，自那丝绒质地的厚重窗帘外，透入星星点点的光辉，空气中弥漫着彻夜狂热的气味，烟幕与灰尘被丝丝缕缕的光线打量，像是深海中缓慢流动的水流。
 
@@ -1678,11 +1610,7 @@ comments: true
 
 　　此时，距离航班起飞，只剩下两小时二十五分。
 
-　　 
-
 　　13
-
-　　 
 
 　　“时间差不多了，没有什么问题的话，本院就宣布开庭了。”
 
@@ -1710,11 +1638,7 @@ comments: true
 
 　　说罢，他将惊讶地睁大双眼的御剑怜侍用力地拥入怀中。听审席上响起一片哗然。
 
-　　 
-
 　　14
-
-　　 
 
 　　“我们都知道，由剧作家成步堂龙一先生创作并执导的音乐剧《梦之影》，是一部脍炙人口的经典之作，至今仍火爆于全世界各大剧院之中，可谓是戏剧界的一棵常青树了。而就在今年的新年档期，改编后的《梦之影》还将被搬上荧幕，由原作者成步堂龙一先生监制，以电影的形式和观众们见面。借此机会，我们的节目请到了著名剧作家、戏剧导演、演员，成步堂龙一先生，做一次深入的访谈。有请——”
 
@@ -1825,8 +1749,6 @@ comments: true
 　**　他是织梦人，他是梦之影，他是梦本身。**
 
 　**　他们是彼此的织梦人，彼此的梦之影，彼此的梦本身。**
-
-　　 
 
 \    End. 
 
